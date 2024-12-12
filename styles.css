@@ -61,6 +61,7 @@ main {
   text-align: center;
   font-family: italic;
   width: 80%;
+  color: white;
 }
 
 .polindrome-definition span,
@@ -122,6 +123,7 @@ img {
     font-family: italic;
     width: 86%;
     padding-top: 6px;
+    color: white;
   }
 
   .polindrome-definition span,
